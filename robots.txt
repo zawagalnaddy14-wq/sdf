@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zawagalnaddy14-wq.github.io/sdf/sitemap.xml
